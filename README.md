@@ -17,4 +17,11 @@ There are multiple data generate from different part of the https://www.prokabad
 10) We finally attempted to predict using simple EDA methods. The trend is very clear and vivid using various graphs.
 11) This proves that ML modeling is not required when simple EDA will do
 
+Usage Information:
+1) Download/Pull all iPython Notebooks
+2) Execute the file as per the header information one by one.
+3) Three iPython files will extract data from https://www.prokabaddi.com
+4) Execute the last iPython notebook for analysis
+5) Other option is to download/pull Zip file and unzip the same to extract all data into your working directory
+
 
