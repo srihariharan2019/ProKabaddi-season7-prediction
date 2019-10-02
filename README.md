@@ -19,6 +19,7 @@ There are multiple data generate from different part of the https://www.prokabad
 
 Usage Information:
 1) Download/Pull all iPython Notebooks
+2) Copy the chromedriver.exe file into your working directory
 2) Execute the file as per the header information one by one.
 3) Three iPython files will extract data from https://www.prokabaddi.com
 4) Execute the last iPython notebook for analysis
