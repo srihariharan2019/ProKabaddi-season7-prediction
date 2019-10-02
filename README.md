@@ -14,6 +14,7 @@ There are multiple data generate from different part of the https://www.prokabad
    So the data will become imbalance if we use the entire season for prediction
 8) We set aside Season 7 data for later prediction to compare the trends
 9) We tried various model for prediction (Linear, Logistic , KNN, K-means) , but none of them are accurate as the data is less and volatile
-10) We finally tried to predict using simple EDA analysis. The trend is very clear and vivid using various graphs.
+10) We finally attempted to predict using simple EDA methods. The trend is very clear and vivid using various graphs.
+11) This proves that ML modeling is not required when simple EDA will do
 
 
